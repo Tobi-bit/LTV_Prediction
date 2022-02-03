@@ -9,3 +9,11 @@ The digital games market is confronted with several challenges such as a fast gr
 
 Pre-processing, analysis, graphs and everything before models starting with 02.
 Seperate files for Regression and Classification algorithms, all starting with 03.
+
+The notebooks must be executed in the following sequence:
+  1. 02_df2_transformation_final-2.ipynb
+  2. 02_data_preprocessing_final-6-3.ipynb
+  3. 02_scaling_onehotencoding_2 -2.ipynb
+  4. Executing prediction model (Regression or Classification)
+
+Note: File paths must be adapted. 

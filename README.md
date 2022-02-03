@@ -8,4 +8,4 @@ The digital games market is confronted with several challenges such as a fast gr
 
 
 Pre-processing, analysis, graphs and everything before models starting with 02.
-Seperate files for Regression and Classification algorithms, all staring with 03.
+Seperate files for Regression and Classification algorithms, all starting with 03.

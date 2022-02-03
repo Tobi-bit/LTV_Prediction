@@ -6,7 +6,7 @@ The digital games market is confronted with several challenges such as a fast gr
 
 ## Structure
 
-The notebooks must be executed in the following sequence:
+The notebooks should be executed in the following sequence:
   1. 02_df2_transformation_final-2.ipynb
   2. 02_data_preprocessing_final-6-3.ipynb
   3. 02_scaling_onehotencoding_2 -2.ipynb
